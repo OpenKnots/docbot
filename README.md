@@ -1,4 +1,4 @@
-## DocBot
+## DocBot (WORK IN PROGRESS)
 
 This repo is a minimal, **educational starter** for building a documentation bot that can convert a codebase into **structured documentation** using:
 
